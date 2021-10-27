@@ -2,7 +2,7 @@
 
 English | [简体中文](./README-zh.md)
 
-> This is a vue template project
+> This is a vue2 template project
 
 ## Build Setup
 
